@@ -1,4 +1,4 @@
 # AnaDat
 ## Editing the file
 
-Un espacio para Análisis
+Este repositorio contiene varios proyectos sobre Análisis de datos.
